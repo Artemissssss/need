@@ -420,4 +420,17 @@ bottom: 0;
         margin-top: 10px;
     }
 
+    .icon-5 {
+        top: 80%;
+        width: 100px;
+        height: 100px;
+    z-idex: 0;
+    }
+  .icon-6 {
+        top: 90%;
+        width: 100px;
+        height: 100px;
+        transform: rotate(330deg);
+   z-idex: 0;
+    }
 }
